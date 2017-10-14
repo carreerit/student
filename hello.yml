@@ -2,4 +2,4 @@
   tasks:
     - name: Print Hello
       debug:
-        msg: "Hello World"
+        msg: "Welcome to new World"
